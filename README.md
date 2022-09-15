@@ -1,24 +1,25 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="100"/>  
+<div align="center">
   
-  <div id="badges">
-    <a href="linkedin.com/in/haidar-ijlal-231a93243/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:m.haidarijl@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="https://www.instagram.com/muhamadijlal_/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-  </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif" width="100"/>
   
   <h1>
     Sampurasun
+    <br>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+
+  <p>
+    <a href="https://www.instagram.com/muhamadijlal_/">
+      <img src="https://img.shields.io/badge/-muhamadijlal-blue?style=for-the-badge&logo=Instagram&logoColor=00AEFF&labelColor=black&color=black">
+    </a>
+    <a href="https://www.linkedin.com/in/haidar-ijlal-231a93243/">
+      <img src="https://img.shields.io/badge/-haidar%20ijlal-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+    </a>
+    <a href="mailto:m.haidarijl@gmail.com">
+      <img src="https://img.shields.io/badge/m.haidarijl@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+    </a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" align="center" alt=""/>
 </div>
 
 ---
@@ -45,3 +46,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhamadijlal&theme=prussian)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamadijlal&show_icons=true&theme=prussian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadijlal&layout=compact&theme=prussian)](https://github.com/muhamadijlal/github-readme-stats)
