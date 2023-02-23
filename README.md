@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   
   <img src="https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif" width="100"/>
   
@@ -53,3 +53,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhamadijlal&theme=prussian)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamadijlal&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadijlal&layout=compact&theme=prussian)](https://github.com/muhamadijlal/github-readme-stats)
+ -->
