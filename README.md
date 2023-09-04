@@ -1,4 +1,4 @@
-### <div align="center">I'm Rishav, a  full-stack web developer 👨‍💻</div>  
+### <div align="center">I'm haidar ijlal, a  full-stack web developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on Glauh Citarum.  
