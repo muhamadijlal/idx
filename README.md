@@ -1,7 +1,7 @@
 ### <div align="center">I'm haidar ijlal, a  full-stack web developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Glauh Citarum.  
+- 🔭 I’m currently working on Galuh Citarum.  
   
 
 - 🌱 I’m currently learning Vue 3 and Laravel.  
