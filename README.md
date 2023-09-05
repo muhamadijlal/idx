@@ -7,9 +7,6 @@ I'm haidar ijlal (he/they) - I'm a fullstack web developer. I'm interested in de
 ![My Skills](https://skills.thijs.gg/icons?i=laravel,php,vue,js,html,css,git,nginx,bash)
 <br>
 
-<a href="https://github.com/muhamadijlal" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://instagram.com/muhamadijlal_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
