@@ -4,7 +4,7 @@ I'm haidar ijlal (he/they) - I'm a fullstack web developer. I'm interested in de
 
 <br>
 
-![My Skills](https://skills.thijs.gg/icons?i=laravel,php,vue,js,html,css,git,nginx,bash)
+![My Skills](https://skills.thijs.gg/icons?i=laravel,php,vue,js,html,linux,css,git,nginx,bash,tailwind,mysql,vite,vscode,postman)
 <br>
 
 <a href="https://instagram.com/muhamadijlal_" target="_blank">
