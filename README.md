@@ -1,6 +1,6 @@
 # Hallo there 👋
 
-I'm haidar ijlal (he/they) - I'm a fullstack web developer. I'm interested in development. I work as a fullstack web developer and work on random projects in my spare time.
+I'm haidar ijlal (he/they) - I work as a fullstack web developer.
 
 <br>
 
