@@ -3,6 +3,7 @@
 I'm haidar ijlal (he/they) - I work as a fullstack web developer.
 
 <br>
+<iframe src="https://hackerrank-badge.herokuapp.com/muhamadijlal?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 
 ![My Skills](https://skills.thijs.gg/icons?i=react,laravel,php,tailwind)
 <br>
